@@ -1,15 +1,14 @@
-### BizBuilder, Inc.
+## BizBuilder                                                                                      
 
-AI-native PMF discovery for solo founders.
+AI distribution agent for solo vibecoders.
 
-You shipped an app. Now what? BizBuilder's AI agents run micro-experiments to find where your product belongs. You make three decisions: **Kill**, **Pivot**, or **Double Down**. Agents handle everything between decisions.
+Built by BizBuilder, Inc. — a Delaware C-corp.                                         
 
-**What we believe:** Every vibecoder deserves to succeed. Marketing shouldn't require marketing skills. Discovery should feel like play, not work.
+**What we do:** Run the customer-acquisition loop on behalf of solo founders who shipped products with AI coding tools (Lovable / Cursor / Bolt / Claude Code / Replit / v0) and have zero users.                                                                                   
 
-**What we're building:** A gamified command center where AI agents discover product-market fit through a signal loop — spend → signals → decisions → iterate. SimCity meets a COO.
+**How it works:** Paste your URL. We propose conjunctions. Commit $29.
+We run 10-15 ad variants across real platforms. We show you what worked, diagnose what didn't, and deliver fixes to your coding harness.
 
-**How we work:** We're an AI-native company. Our agents build relationships, scan ecosystems, monitor signals, and present decisions. Humans decide. Agents execute. The system improves itself.
+**Status:** V1 shipping late April 2026. Public launch announcement via Show HN.
 
----
-
-*Delaware C-corp. Pre-launch. Building in public.*
+**Learn more:** https://bizbuilderai.com   
